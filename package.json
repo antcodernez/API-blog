@@ -1,0 +1,18 @@
+{
+  "name": "api-blog",
+  "version": "1.0.0",
+  "description": "This is a API to save my own blogpost and share it with the world",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.4.1",
+    "express": "^4.18.2",
+    "mongoose": "^8.1.1",
+    "morgan": "^1.10.0"
+  }
+}
